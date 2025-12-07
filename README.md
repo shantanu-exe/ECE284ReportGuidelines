@@ -101,6 +101,12 @@ For each Alpha submission, include a separate subfolder named like `Alpha1_<Name
   - Interpretation and conclusions
 - Keep the report within the 2–5 page limit.
 
+## Part7_ProgressReport
+
+Add your progress report files here. Name the main file `ProgressReport.pdf` (PDF preferred).
+Just fill in the status of all your parts, and alpha in very short as you did for poster submission.
+  - A template `ECE284 Progress Report.docx` is present in `Part7_ProgressReport/` — replace it with your updated pdf.
+
 ---
 
 ## General notes and best practices
