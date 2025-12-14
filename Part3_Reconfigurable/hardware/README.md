@@ -10,3 +10,5 @@ irun
 ```
 
 The default testbench should exercise all reconfigurable modes without recompilation.
+
+In Part3 , there are 2 testbenchs. core_tb.v for Output Stationary and core_tb_ws.v for weight stationary
